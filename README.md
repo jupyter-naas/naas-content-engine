@@ -54,18 +54,28 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+⚡️📊 Serve your business faster with Jupyter Notebook and naas.ai framework!
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project aim to create a data product that automates the aggregation and analysis of data from various social platforms and visualizes the results in a Notion dashboard.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+The objectives are to:
+- do it because we needed to follow our own content
+- build it in public to show how Naas can be used to create data products
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Here are the steps we followed:
 
-Use the `BLANK_README.md` to get started.
+1. 📺 Define where the data will be consumed
+Notion came out naturally, it's the go-to tool for a lot of businesses today.
+
+2. 📊 Design the reports and charts
+Thanks to our data/BI consulting experience and the templates in naas.ai awesome-notebooks repository, we got started super fast!
+
+3. ⚡️ Create an V0 of an engine
+The engine is how different templates can work together. We modularised templates and started assembling them, isolating the config and pipeline logic in specific notebooks.
+
+4. ⭐️ Publish the project on GitHub
+Once we got a first social media tool covered (LinkedIn) we started packaging the data product on GitHub.
+We are now duplicating the model on the other social platforms (Youtube, Twitter…)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
