@@ -10,7 +10,6 @@
   <p align="center">
     Access all your social medias metrics and platform in Notion!
     <br />
-    <a href="https://docs.naas.ai/"><strong>Explore naas documentations</strong></a>
     <br />
     <br />
     <a href="">Request Demo</a>
