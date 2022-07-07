@@ -2,10 +2,10 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/jupyter-naas/naas-content-engine/">
-    <img src="https://landen.imgix.net/jtci2pxwjczr/assets/5ice39g4.png?w=160" alt="Logo" width="80" height="80">
+    <img src="https://landen.imgix.net/jtci2pxwjczr/assets/5ice39g4.png?w=160" alt="Logo Naas">
   </a>
 
-  <h3 align="center">Naas Brand-Content ENgine</h3>
+  <h3 align="center"Naas Brand-Content Engine (WIP 👷⚠️)</h3>
 
   <p align="center">
     Access all your social medias metrics and platform in Notion!
@@ -73,12 +73,8 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Jupyter Notebooks][Next.js]][Next-url]
-* [![Naas][React.js]][React-url]
-* [![Python][Vue.js]][Vue-url]
-* [![Notion][Angular.io]][Angular-url]
+* Jupyter Notebooks
+* Naas
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
