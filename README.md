@@ -12,11 +12,11 @@
     <br />
     <br />
     <br />
-    <a href="https://calendly.com/florentravenel/naas-content-engine-demo?month=2022-07">Request Demo</a>
+    <a href="https://calendly.com/florentravenel/naas-content-engine-demo?month=2022-07" target="_blank">Request Demo</a>
     ·
-    <a href="https://github.com/jupyter-naas/naas-content-engine/issues">Report Bug</a>
+    <a href="https://github.com/jupyter-naas/naas-content-engine/issues/new" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/jupyter-naas/naas-content-engine/issues">Request Feature</a>
+    <a href="https://github.com/jupyter-naas/naas-content-engine/issues/new" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -113,7 +113,7 @@ We are now duplicating the model on the other social platforms (Youtube, Twitter
 - [ ] Instragram
 - [ ] Tiktok
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jupyter-naas/naas-content-engine/issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
