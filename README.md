@@ -112,6 +112,8 @@ We are now duplicating the model on the other social platforms (Youtube, Twitter
 - [x] YouTube
 - [ ] Instragram
 - [ ] Tiktok
+- [ ] Facebook
+- [ ] Snapchat
 
 See the [open issues](https://github.com/jupyter-naas/naas-content-engine/issues).
 
