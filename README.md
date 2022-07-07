@@ -95,10 +95,11 @@ We are now duplicating the model on the other social platforms (Youtube, Twitter
 ### Prerequisites
 
 * Create an account on [naas.ai](https://www.naas.ai/free-forever)
+* Create an account on [Notion](https://www.notion.so/)
 
 ### Installation
 
-1. Get the Naas_Content_Engine_Config
+1. Get the Naas_Content_Engine_Config.ipynb
 2. Follow the instructions within the notebook
 2. Execute all cells
 
@@ -106,7 +107,7 @@ We are now duplicating the model on the other social platforms (Youtube, Twitter
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap social platforms
 
 - [x] LinkedIn
 - [x] Twitter
