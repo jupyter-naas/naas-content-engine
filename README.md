@@ -5,7 +5,7 @@
     <img src="https://landen.imgix.net/jtci2pxwjczr/assets/5ice39g4.png?w=160" alt="Logo Naas">
   </a>
 
-  <h3 align="center"Naas Brand-Content Engine (WIP 👷⚠️)</h3>
+  <h3 align="center">Naas Brand-Content Engine (WIP 👷⚠️)</h3>
 
   <p align="center">
     Access all your social medias metrics and platform in Notion!
