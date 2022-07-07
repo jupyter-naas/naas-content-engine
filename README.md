@@ -12,11 +12,11 @@
     <br />
     <br />
     <br />
-    <a href="">Request Demo</a>
+    <a href="https://calendly.com/florentravenel/naas-content-engine-demo?month=2022-07">Request Demo</a>
     ·
-    <a href="">Report Bug</a>
+    <a href="https://github.com/jupyter-naas/naas-content-engine/issues">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="https://github.com/jupyter-naas/naas-content-engine/issues">Request Feature</a>
   </p>
 </div>
 
@@ -39,10 +39,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
