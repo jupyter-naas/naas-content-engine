@@ -4,7 +4,7 @@
   <a href="https://github.com/jupyter-naas/naas-content-engine/">
     <img src="https://landen.imgix.net/jtci2pxwjczr/assets/5ice39g4.png?w=160" alt="Logo Naas">
   </a>
-  <img src="v0.gif" alt="Gif content engine">
+
   <h3 align="center">Naas Brand-Content Engine (WIP 👷⚠️)</h3>
 
   <p align="center">
@@ -46,7 +46,7 @@
   </ol>
 </details>
 
-
+<img src="v0.gif" alt="Gif content engine">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
