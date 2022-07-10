@@ -8,7 +8,7 @@
   <h3 align="center">Naas Brand-Content Engine (WIP 👷⚠️)</h3>
 
   <p align="center">
-    Access all your social medias metrics and platform in Notion!
+    Access all your social medias metrics in Notion!
     <br />
     <br />
     <br />
