@@ -46,7 +46,7 @@
   </ol>
 </details>
 
-<img src="v0.gif" alt="Gif content engine">
+<img src="v0-1.gif" alt="Gif content engine">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
